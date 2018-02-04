@@ -1,7 +1,7 @@
 {
     "name": "proyectochat",
     "version": "1.0.0",
-    "description": "Proyecto chat victorrobles",
+    "description": "Proyecto chat",
     "main": "index.js",
     "scripts": {
         "start": "nodemon server/index.js",
